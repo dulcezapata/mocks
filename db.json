@@ -8,7 +8,7 @@
   {
     "id": 1,
     "name": "Entrada Gratuita",
-    "image": "https://image.flaticon.com/icons/png/512/121/121693.png",
+    "image":"./images/image.png",
     "expiredDate": "23/02/20",
     "rewardCode": "998875AAWQ881005",
     "effectiveLegend": "Presentá este código en cualquier sucursal de Village Cines Recoleta para usar tu entrada gratuita.",
@@ -27,7 +27,7 @@
   {
     "id": 2,
     "name": "Pack Gratuito",
-    "image": "https://image.flaticon.com/icons/png/512/57/57134.png",
+    "image":"./images/image.png",
     "expiredDate": "23/02/20",
     "rewardCode": "",
     "effectiveLegend": "",
@@ -38,7 +38,7 @@
   {
     "id": 3,
     "name": "Pack Gratuito",
-    "image": "https://image.flaticon.com/icons/png/512/33/33750.png",
+    "image":"./images/image.png",
     "expiredDate": "23/02/20",
     "rewardCode": "998875AAWQ881999",
     "effectiveLegend": "Sed et nonumy sed ipsum ipsum gubergren amet. Elitr dolores sea lorem sed erat et sanctus aliquyam dolores, sed vero.",
