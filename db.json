@@ -1,0 +1,58 @@
+{
+  "isSocio": [
+    {
+      "isSocio": true
+    }
+  ],
+  "rewards":[
+  {
+    "id": 1,
+    "name": "Entrada Gratuita",
+    "image": "https://image.flaticon.com/icons/png/512/121/121693.png",
+    "expiredDate": "23/02/20",
+    "rewardCode": "998875AAWQ881005",
+    "effectiveLegend": "Presentá este código en cualquier sucursal de Village Cines Recoleta para usar tu entrada gratuita.",
+    "description": "1 Entrada Gratuita",
+    "legal": "Prueba 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "applicableDays": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pack Gratuito",
+    "image": "https://image.flaticon.com/icons/png/512/57/57134.png",
+    "expiredDate": "23/02/20",
+    "rewardCode": "",
+    "effectiveLegend": "",
+    "description": "2 GB + WhatsApp Gratis",
+    "legal": "PRUEBA 2 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "applicableDays": []
+  },
+  {
+    "id": 3,
+    "name": "Pack Gratuito",
+    "image": "https://image.flaticon.com/icons/png/512/33/33750.png",
+    "expiredDate": "23/02/20",
+    "rewardCode": "998875AAWQ881999",
+    "effectiveLegend": "Sed et nonumy sed ipsum ipsum gubergren amet. Elitr dolores sea lorem sed erat et sanctus aliquyam dolores, sed vero.",
+    "description": "10 GB + WhatsApp Gratis",
+    "legal": "",
+    "applicableDays": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  }
+]
+}
