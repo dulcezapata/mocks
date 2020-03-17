@@ -4,6 +4,11 @@
       "isSocio": false
     }
   ],
+  "signUp": [
+    {
+      "isSocio": true
+    }
+  ],
   "rewards":[
   {
     "id": 1,
