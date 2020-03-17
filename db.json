@@ -9,6 +9,11 @@
       "isSocio": true
     }
   ],
+  "inform": [
+    {
+      "inform": true
+    }
+  ],
   "rewards":[
   {
     "id": 1,
