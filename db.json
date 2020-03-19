@@ -60,7 +60,7 @@
 ],
   "rewardHistory":[
     {
-        "id" : 1
+        "id" : 1,
         "name": "2 GB + WhatsApp",
         "effectiveLegend": "Usalo en Personal (Móvil)",
         "expiredDate": "02/23/2000",
@@ -69,7 +69,7 @@
         "idReward" : 2
     },
     {
-        "id" : 2
+        "id" : 2,
         "name": "1 Entrada gratis",
         "effectiveLegend": "Usalo en cine Village Recoleta",
         "expiredDate": "02/23/2099",
@@ -78,7 +78,7 @@
         "idReward" : 1
     },
     {
-        "id" : 3
+        "id" : 3,
         "name": "2 GB + WhatsApp",
         "effectiveLegend": "Usalo en Personal (Móvil)",
         "expiredDate": "02/23/2015",
@@ -87,7 +87,7 @@
         "idReward" : 2
     },
     {
-        "id" : 4
+        "id" : 4,
         "name": "5 GB + WhatsApp",
         "effectiveLegend": "Usalo en Personal (Móvil)",
         "expiredDate": "02/23/2011",
@@ -96,7 +96,7 @@
         "idReward" : 4
     },
     {
-        "id" : 5
+        "id" : 5,
         "name": "2 GB + WhatsApp",
         "effectiveLegend": "Usalo en Personal (Móvil)",
         "expiredDate": "02/23/2015",
@@ -105,7 +105,7 @@
         "idReward" : 2
     },
     {
-        "id" : 6
+        "id" : 6,
         "name": "1 Entrada gratis",
         "effectiveLegend": "Usalo en cine Village Recoleta",
         "expiredDate": "02/23/2000",
