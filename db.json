@@ -2,11 +2,11 @@
   "isSocio": [
     {
       "isSocio": false,
-      "idCuenta" : 73373
+      "idAccount" : 73373
     },
     {
       "isSocio": true,
-      "idCuenta" : 1234
+      "idAccount" : 1234
     }    
   ],
   "signUp": [
