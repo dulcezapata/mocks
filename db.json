@@ -93,7 +93,8 @@
         "expiredDate": "02/23/2015",
         "icon": "./images/Regalos/Fill 1.png",
         "status": 0,
-        "idReward" : 2
+        "idReward" : 2,
+        "usedDate" : "02/20/2015"
     },
     {
         "id" : 4,
@@ -102,7 +103,8 @@
         "expiredDate": "02/23/2011",
         "icon": "./images/Regalos/Fill 1.png",
         "status": 0,
-        "idReward" : 4
+        "idReward" : 4,
+        "usedDate" : "02/20/2011"
     },
     {
         "id" : 5,
