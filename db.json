@@ -34,8 +34,14 @@
 				false,
 				false
 			],
-			"url":"https://www.mcdonalds.com.ar/",
-			"branchOffice":[]
+			"url":"https://www.mcdonalds.com.ar/",		
+			"branchOffice":[{
+				"stores": [
+					{"latitude": -34.198122, "longitude": -60.733743},
+                  			{"latitude": -34.195460, "longitude": -60.731522},
+                  			{"latitude":-34.200102, "longitude": -60.735758}
+				]
+			}]
 		},
 		{
 			"id": 2,
@@ -48,13 +54,7 @@
 			"legal": "PRUEBA 2 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
 			"applicableDays": [],
 			"url":"https://www.mcdonalds.com.ar/",
-			"branchOffice":[{
-				"stores": [
-					{"latitude": -34.198122, "longitude": -60.733743},
-                  			{"latitude": -34.195460, "longitude": -60.731522},
-                  			{"latitude":-34.200102, "longitude": -60.735758}
-				]
-			}]
+			"branchOffice":[]
 		},
 		{
 			"id": 3,
@@ -67,13 +67,7 @@
 			"legal": "",
 			"applicableDays": [],
 			"url":"https://www.mcdonalds.com.ar/",
-			"branchOffice":[{
-				"stores": [
-					{"latitude": -34.198122, "longitude": -60.733743},
-                  			{"latitude": -34.195460, "longitude": -60.731522},
-                  			{"latitude":-34.200102, "longitude": -60.735758}
-				]
-			}]
+			"branchOffice":[]
 
 		}
 	],
