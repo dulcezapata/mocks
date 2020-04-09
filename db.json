@@ -35,7 +35,8 @@
 				false
 			],
 			"url":"https://www.wish.com/",		
-			"branchOffice":[]
+			"branchOffice":[],
+		"provider":1
 		},
 		{
 			"id": 2,
@@ -60,7 +61,8 @@
 					{"latitude": -34.198122, "longitude": -60.733743},
                   			{"latitude": -34.195460, "longitude": -60.731522},
                   			{"latitude":-34.200102, "longitude": -60.735758}
-				]}]
+				]}],
+			"provider":null
 		},
 		{
 			"id": 3,
@@ -78,7 +80,8 @@
 					{"latitude": -34.198122, "longitude": -60.733743},
                   			{"latitude": -34.195460, "longitude": -60.731522},
                   			{"latitude":-34.200102, "longitude": -60.735758}
-				]}]
+				]}],
+			"provider":null
 
 		}
 	],
@@ -94,7 +97,8 @@
 			"image": "./images/image.png",
 		"rewardCode": "sddf455667",
 		"url":"https://www.ttsviajes.com/",
-		"branchOffice":[]
+		"branchOffice":[],
+		"provider":1
 		},
 		{
 			"id": 2,
@@ -121,7 +125,8 @@
 					{"latitude": -34.198122, "longitude": -60.733743},
                   			{"latitude": -34.195460, "longitude": -60.731522},
                   			{"latitude":-34.200102, "longitude": -60.735758}
-				]}]
+				]}],
+			"provider":null
 		},
 		{
 			"id": 3,
@@ -148,7 +153,8 @@
 					{"latitude": -34.198122, "longitude": -60.733743},
                   			{"latitude": -34.195460, "longitude": -60.731522},
                   			{"latitude":-34.200102, "longitude": -60.735758}
-				]}]
+				]}],
+			"provider":1
 		},
 		{
 			"id": 4,
@@ -170,7 +176,8 @@
 				false,
 				false],
 			"url":"https://www.cinemarkhoyts.com.ar/",
-			"branchOffice":[]
+			"branchOffice":[],
+			"provider":1
 		},
 		{
 			"id": 5,
@@ -190,7 +197,8 @@
 				false,
 				false],
 			"url":"https://www.mcdonalds.com.ar/",
-			"branchOffice":[]
+			"branchOffice":[],
+			"provider":1
 		},
 		{
 			"id": 6,
@@ -216,7 +224,7 @@
 					{"latitude": -34.198122, "longitude": -60.733743},
                   			{"latitude": -34.195460, "longitude": -60.731522},
                   			{"latitude":-34.200102, "longitude": -60.735758}
-				]}]
-		}
+				]}],
+			"provider":null		}
 	]
 }
